@@ -2,7 +2,7 @@
 
 ## Hello there! 👋
 
-### 🌸 A girl in the tech world passionate about using technology to make a positive impact on the world.🌸 
+### 🌸A girl in the tech world passionate about using technology to make a positive impact on the world 
 
 ## 🌟 **About Me**
 
