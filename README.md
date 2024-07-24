@@ -1,4 +1,4 @@
-# 👩‍💻 **Aspiring Tech Enthusiast's Portfolio**
+# 👩‍💻 **Aspiring Tech Enthusiast**
 
 ## Hello there! 👋
 
@@ -15,7 +15,7 @@ I'm a girl new to the tech world, but I'm determined to learn and grow. 🚀 As 
 
 I am currently a Computer Science student in Jomo Kenyatta University.
 
-- 🎓 Taking online courses and tutorials to expand my skills.
+- 🎓 I'm also taking online courses and tutorials to expand my skills.
 - 🤝 Networking with experienced professionals for insights and mentorship.
 - 🌱 Experimenting with new tools and technologies to find my passion.
 
