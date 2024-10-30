@@ -4,11 +4,6 @@
 
 ### 🌸A girl in the tech world passionate about using technology to make a positive impact in the world 
 
-## 🌟 **About Me**
-
-### 📚 I'm constantly learning new technologies and programming languages.
-### 💅 I have a keen eye for design and a passion for creating beautiful, user-friendly interfaces.
-
 ## 📚 **Learning Path**
 
 ### I am currently a Computer Science student in Jomo Kenyatta University.
@@ -23,4 +18,4 @@
 ### 🌳 Inspire and encourage other women to explore the exciting world of technology.
 
 - Let's connect! 😊 Reach out to me at melanieminayo00@gmail.com or [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/melanie-minayo-6ab167298/).
-## *PRACTICE IS KEY*
+
