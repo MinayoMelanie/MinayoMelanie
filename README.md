@@ -13,7 +13,7 @@
 
 ## 🚀 **Future Goals**
 
-### 🌟 Become a proficient software developer, contributing to innovative projects.
+### 🌟 Become a proficient software engineer, contributing to innovative projects.
 ### 🌍 Use my tech skills to create solutions that address social and environmental issues.
 ### 🌳 Inspire and encourage other women to explore the exciting world of technology.
 
