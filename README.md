@@ -35,7 +35,6 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MinayoMelanie&show_icons=true&theme=radical" width="450"/>
 </p>
@@ -63,7 +62,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Coding+with+creativity+and+style+is+my+superpower.+%E2%80%93+Minayo+%F0%9F%92%95" alt="Quote SVG" />
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MinayoMelanie&label=Profile+Views&color=ff69b4&style=flat-square" alt="Profile Views"/>
 </p>
